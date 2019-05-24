@@ -1,9 +1,11 @@
 GIT
   remote: https://github.com/wordpress-mobile/release-toolkit
-  revision: c555066402074a527a9853932790da8198eb7f21
-  tag: 0.6.0
+  revision: 46675747692eab9336c2ee14eeb4f39f0a58712f
+  branch: add/screenshot-tool-updates-for-woo
   specs:
-    fastlane-plugin-wpmreleasetoolkit (0.6.0)
+    fastlane-plugin-wpmreleasetoolkit (0.2.2)
+      activesupport (~> 4)
+      chroma (= 0.2.0)
       diffy (~> 3.3)
       git (~> 1.3)
       jsonlint
@@ -13,20 +15,28 @@ GIT
       progress_bar (~> 1.3)
       rake (~> 12.3)
       rake-compiler (~> 1.0)
+      rmagick (~> 3.0)
 
 GEM
   remote: https://rubygems.org/
   specs:
     CFPropertyList (3.0.0)
+    activesupport (4.2.11.1)
+      i18n (~> 0.7)
+      minitest (~> 5.1)
+      thread_safe (~> 0.3, >= 0.3.4)
+      tzinfo (~> 1.1)
     addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
     atomos (0.1.3)
     babosa (1.0.2)
+    chroma (0.2.0)
     claide (1.0.2)
     colored (1.2)
     colored2 (3.1.2)
     commander-fastlane (4.4.6)
       highline (~> 1.7.2)
+    concurrent-ruby (1.1.5)
     declarative (0.0.10)
     declarative-option (0.1.0)
     diffy (3.3.0)
@@ -111,6 +121,8 @@ GEM
     http-cookie (1.0.3)
       domain_name (~> 0.5)
     httpclient (2.8.3)
+    i18n (0.9.5)
+      concurrent-ruby (~> 1.0)
     json (2.2.0)
     jsonlint (0.3.0)
       oj (~> 3)
@@ -122,6 +134,7 @@ GEM
     mime-types-data (3.2019.0331)
     mini_magick (4.9.5)
     mini_portile2 (2.4.0)
+    minitest (5.11.3)
     multi_json (1.13.1)
     multi_xml (0.6.0)
     multipart-post (2.0.0)
@@ -131,7 +144,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     octokit (4.14.0)
       sawyer (~> 0.8.0, >= 0.5.3)
-    oj (3.8.0)
+    oj (3.8.1)
     optimist (3.0.0)
     options (2.3.2)
     os (1.0.1)
@@ -141,7 +154,7 @@ GEM
       highline (>= 1.6, < 3)
       options (~> 2.3.0)
     public_suffix (2.0.5)
-    rake (12.3.2)
+    rake (12.3.3)
     rake-compiler (1.0.7)
       rake
     representable (3.0.4)
@@ -168,10 +181,13 @@ GEM
     terminal-notifier (2.0.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
+    thread_safe (0.3.6)
     tty-cursor (0.7.0)
     tty-screen (0.7.0)
     tty-spinner (0.9.1)
       tty-cursor (~> 0.7)
+    tzinfo (1.2.5)
+      thread_safe (~> 0.1)
     uber (0.1.0)
     unf (0.1.4)
       unf_ext
