@@ -1,0 +1,5 @@
+12.8:
+* En las tarjetas de estadísticas de entradas y páginas, autores, etiquetas y categorías, se ha añadido una barra de porcentaje para informar del impacto de cada elemento.
+* Ahora puede buscar entradas en la página de la lista de entradas.
+*¡Nuevo! Ya están disponibles los widgets de estadísticas históricas, de hoy y semanales.
+* Editor de bloques: Se ha corregido un error que afectaba a la función de pegar texto en el título de la entrada.

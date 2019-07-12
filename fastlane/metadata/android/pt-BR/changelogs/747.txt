@@ -1,0 +1,6 @@
+12.8:
+* Nos cartões de estatística de posts e páginas, autores, tags, categorias, adicionamos uma barra de porcentagem para mostra o impacto de cada item.
+* Agora você também pode pesquisar por posts na página de lista de posts.
+* Novo! Agora os widgets de estatísticas totais, hoje e semanal estão disponíveis.
+* Editor de blocos: Corrigimos um erro que ocorria ao colar texto no título do post.
+

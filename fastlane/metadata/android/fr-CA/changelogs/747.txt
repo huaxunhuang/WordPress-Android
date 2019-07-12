@@ -1,0 +1,5 @@
+12.8 :
+* Dans Articles et pages, Auteurs, Étiquettes et Statistiques de catégories, une barre de pourcentage a été ajoutée pour indiquer leur niveau d'incidence.
+* Vous pouvez désormais rechercher des articles sur la page Liste d'articles.
+* Nouveau ! Les widgets pour les statistiques Depuis la création, Aujourd'hui et Hebdomadaire sont désormais disponibles.
+* Éditeur de blocs : résolution d'un bug affectant le collage du texte dans le titre de l'article.

@@ -1,0 +1,5 @@
+12.8:
+* In Berichten en pagina's, Auteurs, Tags, en Categorie-statistieken, is een percentagebalk toegevoegd die de gevolgen van ieder item weergeeft.
+* Je kunt nu zoeken in op de pagina Lijst met meldingen.
+* Nieuw! Er zijn nu widgets voor Algemene, dagelijkse en Wekelijkse statistieken beschikbaar
+* Blokeditor: Een bug gerepareerd die het plakken van tekst in de titel van het bericht beïnvloedde.

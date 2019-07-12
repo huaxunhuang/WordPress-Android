@@ -1,0 +1,5 @@
+12.8:
+* Di kartu Statistik Pos dan Halaman, Penulis, Tag, dan Kategori, bilah persentase telah ditambahkan untuk memberitahukan pengaruh dari setiap item.
+* Sekarang Anda bisa mencari pos di halaman Daftar Pos.
+* Baru! Kini tersedia Widget untuk Statistik Sepanjang Waktu, Hari Ini, dan Mingguan.
+* Penyunting Blok: Memperbaiki bug yang memengaruhi penempelan teks ke Judul Pos.

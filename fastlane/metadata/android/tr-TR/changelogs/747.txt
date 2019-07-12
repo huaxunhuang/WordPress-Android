@@ -1,0 +1,5 @@
+12.8:
+* Gönderiler ve Sayfalar, Yazarlar, Etiketler ve Kategori İstatistikleri kartlarına, her öğenin etkisini belirtmek için bir yüzde çubuğu eklendi.
+* Artık Gönderi Listesi sayfasından gönderiler içinde arama yapabilirsiniz.
+* Yeni! Tüm Zamanlar, Bugün ve Haftalık İstatistikler adlı pencere öğeleri artık kullanıma hazır.
+* Blok Düzenleyici: Gönderi Başlığı'na metin yapıştırmayı etkileyen bir hata düzeltildi.

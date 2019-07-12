@@ -1,0 +1,5 @@
+12.8:
+* Nelle schede Articoli e pagine, Autori, Tag e Statistiche delle categorie è stata aggiunta una barra della percentuale per comunicare l'impatto di ogni elemento.
+* Ora puoi cercare gli articoli nella pagina Elenco articoli.
+* Novità! Sono ora disponibili i widget per le statistiche Di sempre, Oggi e Settimanale.
+Editor dei blocchi: è stato corretto un bug riguardante il copia e incolla di testo nel titolo dell'articolo.

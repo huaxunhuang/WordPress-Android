@@ -1,0 +1,5 @@
+12.8:
+* I statistikkort för inlägg och sidor, författare, etiketter samt kategorier har en procentstapel lagts in för att visa hur stor påverkan varje del har.
+* Nu kan du söka bland inläggen från sidan som listar dina inlägg.
+* Nyhet! Det finns widgetar för ”sedan starten”, idag, och veckostatistik.
+* Blockredigeraren: Rättning av ett fel när man klistrade in text i fältet för inläggsrubriken.
